@@ -26,9 +26,8 @@
 
 ---
 
-# 💻 Technologies and Tools:
 
-### 🔹 Backend
+# 💻 Technologies and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
@@ -37,26 +36,16 @@
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white) 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
-
-### 🔹 Frontend
+![ASP.NET Razor](https://img.shields.io/badge/ASP.NET%20Razor-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-### 🔹 Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-
-### 🔹 Testing & Patterns
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white) 
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logoColor=white)  
-
-### 🔹 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-### 🔹 Extra
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-🧮 Data Structures & Algorithms (DSA)  
 
 ---
 
