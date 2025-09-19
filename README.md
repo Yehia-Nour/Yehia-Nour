@@ -1,10 +1,18 @@
 <h1 align="center">Hello 👋, I'm Yehia NourEldin</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:512BD4&height=200&section=header&text=.NET%20Backend%20Developer&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
+---
+
 <h2>💫 About Me:</h2>
-:computer: Junior Backend Developer passionate about continuous learning and problem solving.  
-I focus on building clean, scalable applications using modern architectures and writing maintainable code.  
-<br><br>
-🌱 Currently learning and working with: Clean Architecture, C#, EF Core, LINQ, RESTful APIs, ASP.NET Core, MVC, Unit Testing, and DSA.  
-<br><br>
+
+:computer: Backend Developer specialized in **.NET Core, C#, EF Core, SQL, and LINQ**.  
+⚡ Passionate about building **clean, scalable, and maintainable applications** using modern architectures.  
+🚀 Focused on **problem solving, continuous learning, and writing high-quality code**.  
+🌱 Continuously exploring **Clean Architecture, Unit Testing, and advanced backend practices**.  
+💡 Interested in discussing **backend design decisions, performance optimization, and .NET best practices**.  
 💬 Feel free to ask me about anything backend related.  
 <br><br>
 📫 How to reach me: **yehia.noureldin.28@gmail.com**
@@ -12,12 +20,15 @@ I focus on building clean, scalable applications using modern architectures and 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/yehia-nour](https://www.linkedin.com/in/yehia-nour?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Yehia__NourEldin/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehia-nour/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Yehia__NourEldin/)
+
 
 ---
 
 # 💻 Technologies and Tools:
+
+### 🔹 Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
@@ -26,16 +37,26 @@ I focus on building clean, scalable applications using modern architectures and 
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white) 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) 
-![ASP.NET Razor](https://img.shields.io/badge/ASP.NET%20Razor-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white) 
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+### 🔹 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+### 🔹 Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+
+### 🔹 Testing & Patterns
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF6F00?style=for-the-badge&logoColor=white)  
+
+### 🔹 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+### 🔹 Extra
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+🧮 Data Structures & Algorithms (DSA)  
 
 ---
 
