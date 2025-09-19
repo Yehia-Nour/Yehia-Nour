@@ -12,7 +12,7 @@ I focus on building clean, scalable applications using modern architectures and 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yehia-nour)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/yehia-nour](https://www.linkedin.com/in/yehia-nour?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Yehia__NourEldin/)  
 
 ---
