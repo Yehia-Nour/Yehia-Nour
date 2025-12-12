@@ -52,3 +52,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Nour&theme=vision-friendly-dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehia-Nour&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<img align="right" 
+     width="400"
+     src="https://github-readme-stats.vercel.app/api/wakatime?username=Yehia_NourEldin&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" />
+
